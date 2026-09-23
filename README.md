@@ -263,19 +263,6 @@ The dashboard enables users to:
 
 ---
 
-## Dashboard Preview
-
-### Home Dashboard
-_Add dashboard screenshot here_
-
-### Sales Analysis
-_Add dashboard screenshot here_
-
-### Product Performance Analysis
-_Add dashboard screenshot here_
-
----
-
 ## Conclusion
 
 This project demonstrates the complete Power BI development lifecycle, including data preparation, transformation, data modeling, DAX measure creation, KPI development, and interactive dashboard design.
